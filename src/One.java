@@ -41,7 +41,7 @@ public class One {
         System.out.println(n);
         System.out.println(al);
 
-        stack===
+
 
 
     }
